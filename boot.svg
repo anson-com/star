@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="bg" cx="195.0" cy="371.4" r="658.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#244A74"/>
+      <stop offset="1" stop-color="#102842"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="-39.0" y1="0" x2="429.0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F3EFE5"/>
+      <stop offset="0.62" stop-color="#F3EFE5"/>
+      <stop offset="1" stop-color="#E29840"/>
+    </linearGradient>
+  </defs>
+  <rect width="390" height="844" fill="url(#bg)"/>
+  <polyline points="-39.00,334.68 -31.69,340.87 -24.38,347.48 -17.06,354.42 -9.75,361.60 -2.44,368.91 4.87,376.26 12.19,383.53 19.50,390.64 26.81,397.48 34.12,403.96 41.44,409.99 48.75,415.48 56.06,420.36 63.38,424.56 70.69,428.03 78.00,430.71 85.31,432.56 92.62,433.57 99.94,433.71 107.25,432.99 114.56,431.42 121.88,429.01 129.19,425.80 136.50,421.84 143.81,417.18 151.12,411.89 158.44,406.03 165.75,399.69 173.06,392.96 180.38,385.93 187.69,378.69 195.00,371.36 202.31,364.03 209.62,356.79 216.94,349.76 224.25,343.03 231.56,336.69 238.88,330.83 246.19,325.54 253.50,320.88 260.81,316.92 268.12,313.71 275.44,311.30 282.75,309.73 290.06,309.01 297.38,309.15 304.69,310.16 312.00,312.01 319.31,314.69 326.62,318.16 333.94,322.36 341.25,327.24 348.56,332.73 355.88,338.76 363.19,345.24 370.50,352.08 377.81,359.19 385.12,366.46 392.44,373.81 399.75,381.12 407.06,388.30 414.37,395.24 421.69,401.85 429.00,408.04" fill="none" stroke="url(#wave)" stroke-width="12.9"
+            stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="195.0" y="552.8" text-anchor="middle"
+        font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
+        font-weight="300" font-size="24.2" letter-spacing="2.9"
+        fill="#F3EFE5" fill-opacity="0.78">StarFM</text>
+</svg>
