@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-v5-32.png" /><link rel="icon" type="image/png" sizes="48x48" href="./favicon-v5-48.png" /><link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" /><link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon-v9.png" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="description" content="StarFM - 一处安静的地方，听全国的电台" />
+    <meta name="keywords" content="StarFM,在线电台,音乐,新闻,交通广播" />
+    <meta name="author" content="StarFM" />
+    <meta name="theme-color" content="#102842" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="StarFM" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="StarFM" />
+    <meta property="og:description" content="一处安静的地方，听全国的电台" />
+    <meta property="og:image" content="./icon-512x512-v9.png" />
+
+    <title>StarFM</title>
+    <style>
+      /* 首帧兜底色：iOS 没有原生启动图后，先给一帧深蓝，避免白闪 */
+      html { background: #102842; }
+      /* Web 启动遮罩：原生/Chrome 的启动画面只负责第一帧不白屏，
+         真正的品牌展示交给这层，时长可控、两端一致。
+         同色同图衔接，看起来是一个连续的长启动画面。
+         top 向上吃掉安全区：iOS 的原生启动图铺到状态栏后面，
+         这一层也跟着铺到状态栏后面，交接时图才不会往下滑一截。 */
+      #boot {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: calc(-1 * env(safe-area-inset-top, 0px));
+        z-index: 9999;
+        background: #102842;
+        overflow: hidden;
+        transition: opacity 0.28s ease;
+        pointer-events: none;
+      }
+      #boot img { display: block; width: 100%; height: 100%; -o-object-fit: cover; object-fit: cover; }
+      #boot.is-out { opacity: 0; }
+    </style>
+    <script type="module" crossorigin src="./assets/index-BW1NMgbM.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DoqveUdg.css">
+  <link rel="manifest" href="./manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="./registerSW.js"></script></head>
+  <body>
+    <div id="boot"><img src="./boot.svg" alt="" /></div>
+    <div id="app"></div>
+    <script>
+      (function () {
+        var MIN = 1400;                 // 最短展示，低于 0.8s 会觉得"闪了一下"
+        var el = document.getElementById('boot');
+        var tc = document.querySelector('meta[name="theme-color"]');
+
+        // PC 端不要这层启动过渡图：桌面打开本来就快，硬塞 1.4s 品牌图只会像卡住。
+        // 判据要「宽屏 + 精确指针（鼠标）」同时成立 —— 只看宽度会把手机横屏、平板误伤成 PC。
+        var isPC = false;
+        try {
+          isPC = window.matchMedia('(min-width: 900px) and (pointer: fine)').matches;
+        } catch (e) {}
+        if (isPC) {
+          if (el && el.parentNode) el.parentNode.removeChild(el);
+          // 把首帧兜底的深蓝也一起换掉，PC 上不要出现任何一帧深色
+          document.documentElement.style.background = '#FAFAFB';
+          if (tc) tc.setAttribute('content', '#FAFAFB');
+          window.__bootDone = function () {};
+          return;
+        }
+
+        var t0 = performance.now();
+        var done = false;
+        function hide() {
+          if (done) return;
+          done = true;
+          if (el) el.classList.add('is-out');
+          // 随淡出把状态栏颜色换回 App 的浅色，用户看不到跳色
+          if (tc) tc.setAttribute('content', '#FAFAFB');
+          setTimeout(function () {
+            if (el) el.style.display = 'none';
+            document.documentElement.style.background = '#FAFAFB';
+          }, 320);
+        }
+
+        function arm() {
+          var rest = MIN - (performance.now() - t0);
+          if (rest > 0) setTimeout(hide, rest); else hide();
+        }
+        // App 挂载完成后由 main.ts 调用；同时留 load 兜底与 4s 硬兜底
+        window.__bootDone = arm;
+        if (document.readyState === 'complete') arm();
+        else window.addEventListener('load', arm);
+        setTimeout(hide, 4000);
+      })();
+    </script>
+  </body>
+</html>

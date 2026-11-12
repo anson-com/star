@@ -1,0 +1,25 @@
+{
+  "_readme": "StarFM 播放提示文案表。改这里的文字即可，刷新页面就生效，不需要重新构建。花括号里的是占位符，会被替换成实际内容，不要删：{reason} = 具体失败原因。",
+  "_where": "源文件：D:\\iradio\\starfm-src\\src\\stores\\playback.ts 的 rotateStream() 第 379 行；本文件是它的外置配置，改了优先用本文件的。",
+
+  "playFail": "{reason},",
+
+  "reason": {
+    "httpOnly": "httpOnly",
+    "net": "网络不可达无响应或下线",
+    "gone": "地址失效或格式不支持",
+    "decode": "无法解出音频流",
+    "decodeOther": "音频解码失败",
+    "cors": "跨域,直连代理均失败",
+    "manifest": "返回不是有效m3u8",
+    "frag": "切片加载失败",
+    "noResponse": "所有地址无响应",
+    "hang": "源站无响应或被跨域限制,该台可能已停播,也可能只允许自家站点访问",
+    "blocked": "浏览器拦了自动播放,点一下播放键就出声"
+  },
+
+  "badUrl": "流格式异常",
+  "noUrl": "无可用流地址",
+  "noResponseShort": "暂无响应",
+  "pickFirst": "请先选择一个电台"
+}
