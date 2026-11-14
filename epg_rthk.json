@@ -1,0 +1,3412 @@
+{
+ "snapshot": "2026-11-14",
+ "source": "wlsyj.com",
+ "note": "离线静态周表，按星期几取对应日；节目名繁体；rthk4 周日源站缺表。",
+ "stations": {
+  "st0171": {
+   "mon": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "哈林奭失眠"
+    },
+    {
+     "start": "02:00",
+     "end": "02:30",
+     "title": "蓝地球(精华版)"
+    },
+    {
+     "start": "02:30",
+     "end": "03:30",
+     "title": "月光书情"
+    },
+    {
+     "start": "03:30",
+     "end": "05:00",
+     "title": "大自然之声"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利 （与第五台联播）"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "千禧年代"
+    },
+    {
+     "start": "10:00",
+     "end": "10:20",
+     "title": "一桶金"
+    },
+    {
+     "start": "10:20",
+     "end": "12:00",
+     "title": "是日快乐"
+    },
+    {
+     "start": "12:00",
+     "end": "12:30",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:30",
+     "end": "13:00",
+     "title": "一桶金"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "精灵一点"
+    },
+    {
+     "start": "15:00",
+     "end": "16:30",
+     "title": "港台体坛123"
+    },
+    {
+     "start": "16:30",
+     "end": "17:00",
+     "title": "一桶金之财经新思维"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "守下留情"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:35",
+     "end": "00:00",
+     "title": "讲东讲西 (星期一至五)"
+    }
+   ],
+   "tue": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "那些年 张伟基"
+    },
+    {
+     "start": "01:00",
+     "end": "01:30",
+     "title": "香港故事"
+    },
+    {
+     "start": "01:30",
+     "end": "03:30",
+     "title": "CIBS人人广播"
+    },
+    {
+     "start": "03:30",
+     "end": "05:00",
+     "title": "大自然之声"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利 （与第五台联播）"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "千禧年代"
+    },
+    {
+     "start": "10:00",
+     "end": "10:20",
+     "title": "一桶金"
+    },
+    {
+     "start": "10:20",
+     "end": "12:00",
+     "title": "是日快乐"
+    },
+    {
+     "start": "12:00",
+     "end": "12:30",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:30",
+     "end": "13:00",
+     "title": "一桶金"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "精灵一点"
+    },
+    {
+     "start": "15:00",
+     "end": "16:30",
+     "title": "港台体坛123"
+    },
+    {
+     "start": "16:30",
+     "end": "17:00",
+     "title": "一桶金之财经新思维"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "守下留情"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:35",
+     "end": "00:00",
+     "title": "讲东讲西 (星期一至五)"
+    }
+   ],
+   "wed": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "那些年 张伟基"
+    },
+    {
+     "start": "01:00",
+     "end": "01:30",
+     "title": "香港故事"
+    },
+    {
+     "start": "01:30",
+     "end": "03:30",
+     "title": "CIBS人人广播"
+    },
+    {
+     "start": "03:30",
+     "end": "05:00",
+     "title": "大自然之声"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利 （与第五台联播）"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "千禧年代"
+    },
+    {
+     "start": "10:00",
+     "end": "10:20",
+     "title": "一桶金"
+    },
+    {
+     "start": "10:20",
+     "end": "10:30",
+     "title": "今日立法会"
+    },
+    {
+     "start": "10:30",
+     "end": "12:00",
+     "title": "是日快乐"
+    },
+    {
+     "start": "12:00",
+     "end": "12:30",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:30",
+     "end": "13:00",
+     "title": "一桶金"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "精灵一点"
+    },
+    {
+     "start": "15:00",
+     "end": "16:30",
+     "title": "港台体坛123"
+    },
+    {
+     "start": "16:30",
+     "end": "17:00",
+     "title": "一桶金之财经新思维"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "守下留情"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:35",
+     "end": "00:00",
+     "title": "讲东讲西 (星期一至五)"
+    }
+   ],
+   "thu": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "那些年 张伟基"
+    },
+    {
+     "start": "01:00",
+     "end": "01:30",
+     "title": "香港故事"
+    },
+    {
+     "start": "01:30",
+     "end": "03:30",
+     "title": "CIBS人人广播"
+    },
+    {
+     "start": "03:30",
+     "end": "05:00",
+     "title": "大自然之声"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利 （与第五台联播）"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "千禧年代"
+    },
+    {
+     "start": "10:00",
+     "end": "10:20",
+     "title": "一桶金"
+    },
+    {
+     "start": "10:20",
+     "end": "12:00",
+     "title": "是日快乐"
+    },
+    {
+     "start": "12:00",
+     "end": "12:30",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:30",
+     "end": "13:00",
+     "title": "一桶金"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "精灵一点"
+    },
+    {
+     "start": "15:00",
+     "end": "16:30",
+     "title": "港台体坛123"
+    },
+    {
+     "start": "16:30",
+     "end": "17:00",
+     "title": "一桶金之财经新思维"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "守下留情"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:35",
+     "end": "00:00",
+     "title": "讲东讲西 (星期一至五)"
+    }
+   ],
+   "fri": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "那些年 张伟基"
+    },
+    {
+     "start": "01:00",
+     "end": "01:30",
+     "title": "香港故事"
+    },
+    {
+     "start": "01:30",
+     "end": "03:30",
+     "title": "CIBS人人广播"
+    },
+    {
+     "start": "03:30",
+     "end": "05:00",
+     "title": "大自然之声"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利 （与第五台联播）"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "千禧年代"
+    },
+    {
+     "start": "10:00",
+     "end": "10:20",
+     "title": "一桶金"
+    },
+    {
+     "start": "10:20",
+     "end": "12:00",
+     "title": "是日快乐"
+    },
+    {
+     "start": "12:00",
+     "end": "12:30",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:30",
+     "end": "13:00",
+     "title": "一桶金"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "精灵一点"
+    },
+    {
+     "start": "15:00",
+     "end": "16:30",
+     "title": "港台体坛123"
+    },
+    {
+     "start": "16:30",
+     "end": "17:00",
+     "title": "一桶金之财经新思维"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "自由风自由PHONE"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "守下留情"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:35",
+     "end": "00:00",
+     "title": "讲东讲西 (星期一至五)"
+    }
+   ],
+   "sat": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "那些年 张伟基"
+    },
+    {
+     "start": "01:00",
+     "end": "01:30",
+     "title": "香港故事"
+    },
+    {
+     "start": "01:30",
+     "end": "03:30",
+     "title": "CIBS人人广播"
+    },
+    {
+     "start": "03:30",
+     "end": "05:00",
+     "title": "大自然之声"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利 （与第五台联播）"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "title": "星期六问责"
+    },
+    {
+     "start": "09:00",
+     "end": "09:20",
+     "title": "香港家书"
+    },
+    {
+     "start": "09:20",
+     "end": "09:30",
+     "title": "未来·无限"
+    },
+    {
+     "start": "09:30",
+     "end": "10:30",
+     "title": "理财新世代"
+    },
+    {
+     "start": "10:30",
+     "end": "12:00",
+     "title": "十万八千里"
+    },
+    {
+     "start": "12:00",
+     "end": "12:20",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:20",
+     "end": "14:00",
+     "title": "大气候"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "五十年後"
+    },
+    {
+     "start": "15:00",
+     "end": "16:00",
+     "title": "政坛新秀训练班"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "title": "大城小事"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "旅游乐园"
+    },
+    {
+     "start": "18:00",
+     "end": "18:20",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:20",
+     "end": "19:00",
+     "title": "旅游乐园"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "一台运动会"
+    },
+    {
+     "start": "20:00",
+     "end": "20:30",
+     "title": "古今风云人物"
+    },
+    {
+     "start": "20:30",
+     "end": "21:00",
+     "title": "乾坤几何"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "《我们一直都在说故事》"
+    },
+    {
+     "start": "22:00",
+     "end": "22:20",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:20",
+     "end": "00:00",
+     "title": "What's Up Bro"
+    }
+   ],
+   "sun": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "我得你都得"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "周末午夜场"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Beautiful Sunday (与第二台联播)"
+    },
+    {
+     "start": "07:00",
+     "end": "07:30",
+     "title": "英式英语一分钟 with 萧叔叔"
+    },
+    {
+     "start": "07:30",
+     "end": "08:00",
+     "title": "一分钟阅读(精华版)"
+    },
+    {
+     "start": "08:00",
+     "end": "08:10",
+     "title": "晨早新闻天地"
+    },
+    {
+     "start": "08:10",
+     "end": "10:00",
+     "title": "旧日的足迹"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "讲东讲西 - 周日版"
+    },
+    {
+     "start": "12:00",
+     "end": "12:15",
+     "title": "午间新闻天地"
+    },
+    {
+     "start": "12:15",
+     "end": "13:00",
+     "title": "中国远朋与近邻"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "非常人物生活杂志"
+    },
+    {
+     "start": "14:00",
+     "end": "16:00",
+     "title": "管理新思维"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "title": "大城小事"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "太阳底下新鲜事"
+    },
+    {
+     "start": "18:00",
+     "end": "18:20",
+     "title": "傍晚新闻天地"
+    },
+    {
+     "start": "18:20",
+     "end": "20:00",
+     "title": "万千宠爱"
+    },
+    {
+     "start": "20:00",
+     "end": "20:30",
+     "title": "大学堂"
+    },
+    {
+     "start": "20:30",
+     "end": "21:00",
+     "title": "大地书香"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "港台讲台"
+    },
+    {
+     "start": "22:00",
+     "end": "22:20",
+     "title": "晚间新闻天地"
+    },
+    {
+     "start": "22:20",
+     "end": "00:00",
+     "title": "夜诊翔谈"
+    }
+   ]
+  },
+  "st0172": {
+   "mon": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "Music Angel"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "10:00",
+     "title": "晨光第一线"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "疯 Show 快活人"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "Made in Hong Kong 李志刚"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "三五成群"
+    },
+    {
+     "start": "17:00",
+     "end": "19:00",
+     "title": "骚动音乐"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Albert Au 区瑞强"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "恬淡情怀"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "音乐情人"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "她．他．它"
+    }
+   ],
+   "tue": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "音乐说"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "10:00",
+     "title": "晨光第一线"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "疯 Show 快活人"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "Made in Hong Kong 李志刚"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "三五成群"
+    },
+    {
+     "start": "17:00",
+     "end": "19:00",
+     "title": "骚动音乐"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Albert Au 区瑞强"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "恬淡情怀"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "音乐情人"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "她．他．它"
+    }
+   ],
+   "wed": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "音乐说"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "10:00",
+     "title": "晨光第一线"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "疯 Show 快活人"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "Made in Hong Kong 李志刚"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "三五成群"
+    },
+    {
+     "start": "17:00",
+     "end": "19:00",
+     "title": "骚动音乐"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Albert Au 区瑞强"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "恬淡情怀"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "音乐情人"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "她．他．它"
+    }
+   ],
+   "thu": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "音乐说"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "10:00",
+     "title": "晨光第一线"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "疯 Show 快活人"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "Made in Hong Kong 李志刚"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "三五成群"
+    },
+    {
+     "start": "17:00",
+     "end": "19:00",
+     "title": "骚动音乐"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Albert Au 区瑞强"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "恬淡情怀"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "音乐情人"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "她．他．它"
+    }
+   ],
+   "fri": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "音乐说"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "10:00",
+     "title": "晨光第一线"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "疯 Show 快活人"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "Made in Hong Kong 李志刚"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "三五成群"
+    },
+    {
+     "start": "17:00",
+     "end": "19:00",
+     "title": "骚动音乐"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Albert Au 区瑞强"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "恬淡情怀"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "音乐情人"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "她．他．它"
+    }
+   ],
+   "sat": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "音乐说"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "09:00",
+     "title": "知识会社"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "湾区生活一小时"
+    },
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "title": "梦想号启航"
+    },
+    {
+     "start": "11:00",
+     "end": "12:00",
+     "title": "安哥同学会"
+    },
+    {
+     "start": "12:00",
+     "end": "14:00",
+     "title": "中文歌曲龙虎榜"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "终身美丽"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "150遇上170"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "弦来是这样的"
+    },
+    {
+     "start": "18:00",
+     "end": "20:00",
+     "title": "环球榜"
+    },
+    {
+     "start": "20:00",
+     "end": "20:30",
+     "title": "奋发时刻 DSE"
+    },
+    {
+     "start": "20:30",
+     "end": "21:00",
+     "title": "开卷乐"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "艺文谷"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "阿郎恋曲"
+    }
+   ],
+   "sun": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "同处一室"
+    },
+    {
+     "start": "01:00",
+     "end": "02:00",
+     "title": "音乐关系"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天"
+    },
+    {
+     "start": "06:00",
+     "end": "08:00",
+     "title": "Beautiful Sunday (0600-0700 与一台、五台、普通话台联播)"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "玩玩星期天"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Sun 生活"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "生活进行式"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "家有爱宠"
+    },
+    {
+     "start": "14:00",
+     "end": "16:00",
+     "title": "好心情经理人"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "title": "Teen空海阔"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "大韩璇风"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "title": "有音乐 有快乐"
+    },
+    {
+     "start": "19:30",
+     "end": "23:59",
+     "title": "第45届十大中文金曲- 音乐盛典"
+    }
+   ]
+  },
+  "st0173": {
+   "mon": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Sunday Late"
+    },
+    {
+     "start": "01:00",
+     "end": "06:30",
+     "title": "Night Music"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "Hong Kong Today"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "title": "Money Talk"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "Backchat"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Brunch with Noreen"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "13:00",
+     "end": "13:15",
+     "title": "News at One"
+    },
+    {
+     "start": "13:15",
+     "end": "14:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "14:00",
+     "end": "17:00",
+     "title": "Steve James"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "The Close"
+    },
+    {
+     "start": "18:00",
+     "end": "18:30",
+     "title": "Newswrap"
+    },
+    {
+     "start": "18:30",
+     "end": "21:00",
+     "title": "Sunset Sounds with Simon Willson"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "In the Common Room"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "23:00",
+     "end": "23:15",
+     "title": "News at Eleven"
+    },
+    {
+     "start": "23:15",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    }
+   ],
+   "tue": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "01:00",
+     "end": "06:30",
+     "title": "Night Music"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "Hong Kong Today"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "title": "Money Talk"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "Backchat"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Brunch with Noreen"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "13:00",
+     "end": "13:15",
+     "title": "News at One"
+    },
+    {
+     "start": "13:15",
+     "end": "14:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "14:00",
+     "end": "17:00",
+     "title": "Steve James"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "The Close"
+    },
+    {
+     "start": "18:00",
+     "end": "18:30",
+     "title": "Newswrap"
+    },
+    {
+     "start": "18:30",
+     "end": "21:00",
+     "title": "Sunset Sounds with Simon Willson"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "In the Common Room"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "23:00",
+     "end": "23:15",
+     "title": "News at Eleven"
+    },
+    {
+     "start": "23:15",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    }
+   ],
+   "wed": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "01:00",
+     "end": "06:30",
+     "title": "Night Music"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "Hong Kong Today"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "title": "Money Talk"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "Backchat"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Brunch with Noreen"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "13:00",
+     "end": "13:15",
+     "title": "News at One"
+    },
+    {
+     "start": "13:15",
+     "end": "14:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "14:00",
+     "end": "17:00",
+     "title": "Steve James"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "The Close"
+    },
+    {
+     "start": "18:00",
+     "end": "18:30",
+     "title": "Newswrap"
+    },
+    {
+     "start": "18:30",
+     "end": "21:00",
+     "title": "Sunset Sounds with Simon Willson"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "In the Common Room"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "23:00",
+     "end": "23:15",
+     "title": "News at Eleven"
+    },
+    {
+     "start": "23:15",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    }
+   ],
+   "thu": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "01:00",
+     "end": "06:30",
+     "title": "Night Music"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "Hong Kong Today"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "title": "Money Talk"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "Backchat"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Brunch with Noreen"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "13:00",
+     "end": "13:15",
+     "title": "News at One"
+    },
+    {
+     "start": "13:15",
+     "end": "14:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "14:00",
+     "end": "17:00",
+     "title": "Steve James"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "The Close"
+    },
+    {
+     "start": "18:00",
+     "end": "18:30",
+     "title": "Newswrap"
+    },
+    {
+     "start": "18:30",
+     "end": "21:00",
+     "title": "Sunset Sounds with Simon Willson"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "In the Common Room"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "23:00",
+     "end": "23:15",
+     "title": "News at Eleven"
+    },
+    {
+     "start": "23:15",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    }
+   ],
+   "fri": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "01:00",
+     "end": "06:30",
+     "title": "Night Music"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "Hong Kong Today"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "title": "Money Talk"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "Backchat"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Brunch with Noreen"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "13:00",
+     "end": "13:15",
+     "title": "News at One"
+    },
+    {
+     "start": "13:15",
+     "end": "14:00",
+     "title": "The Brew"
+    },
+    {
+     "start": "14:00",
+     "end": "17:00",
+     "title": "Steve James"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "The Close"
+    },
+    {
+     "start": "18:00",
+     "end": "18:30",
+     "title": "Newswrap"
+    },
+    {
+     "start": "18:30",
+     "end": "21:00",
+     "title": "Sunset Sounds with Simon Willson"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "In the Common Room"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "23:00",
+     "end": "23:15",
+     "title": "News at Eleven"
+    },
+    {
+     "start": "23:15",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    }
+   ],
+   "sat": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Pete’s Magical Mystery Tour"
+    },
+    {
+     "start": "01:00",
+     "end": "07:00",
+     "title": "Night Music"
+    },
+    {
+     "start": "07:00",
+     "end": "07:30",
+     "title": "Weekend AM"
+    },
+    {
+     "start": "07:30",
+     "end": "08:00",
+     "title": "Hong Kong Heritage"
+    },
+    {
+     "start": "08:00",
+     "end": "08:30",
+     "title": "Weekend AM"
+    },
+    {
+     "start": "08:30",
+     "end": "09:00",
+     "title": "The Purpose Pivot"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "CultureZine"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "Saturday Yum Cha with Luisa"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "Michael Lance"
+    },
+    {
+     "start": "13:00",
+     "end": "13:10",
+     "title": "News at One"
+    },
+    {
+     "start": "13:10",
+     "end": "15:00",
+     "title": "Michael Lance"
+    },
+    {
+     "start": "15:00",
+     "end": "18:00",
+     "title": "Andrew Dembina"
+    },
+    {
+     "start": "18:00",
+     "end": "18:10",
+     "title": "Weekend Roundup"
+    },
+    {
+     "start": "18:10",
+     "end": "20:00",
+     "title": "James Ross: Greatest Hits of Music"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "Radio 3 Mixtape"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Danny’s Weekend Blenz"
+    },
+    {
+     "start": "23:00",
+     "end": "23:10",
+     "title": "News at Eleven"
+    },
+    {
+     "start": "23:10",
+     "end": "01:00",
+     "title": "Danny’s Weekend Blenz"
+    }
+   ],
+   "sun": [
+    {
+     "start": "00:00",
+     "end": "01:00",
+     "title": "Danny’s Weekend Blenz"
+    },
+    {
+     "start": "01:00",
+     "end": "06:00",
+     "title": "Night Music"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Sunday Early"
+    },
+    {
+     "start": "07:00",
+     "end": "07:10",
+     "title": "Weekend AM"
+    },
+    {
+     "start": "07:10",
+     "end": "07:30",
+     "title": "Sunday Early"
+    },
+    {
+     "start": "07:30",
+     "end": "08:00",
+     "title": "Mind Matters"
+    },
+    {
+     "start": "08:00",
+     "end": "08:15",
+     "title": "Weekend AM"
+    },
+    {
+     "start": "08:15",
+     "end": "08:25",
+     "title": "#Hashtag Hong Kong"
+    },
+    {
+     "start": "08:25",
+     "end": "08:30",
+     "title": "Thought for the Week"
+    },
+    {
+     "start": "08:30",
+     "end": "09:00",
+     "title": "Vintage Chart Toppers"
+    },
+    {
+     "start": "09:00",
+     "end": "12:00",
+     "title": "Sunday Escape"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "Simon’s Rolled Gold"
+    },
+    {
+     "start": "13:00",
+     "end": "13:10",
+     "title": "News at One"
+    },
+    {
+     "start": "13:10",
+     "end": "14:00",
+     "title": "Simon’s Rolled Gold"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "Feeling Kinda Sunday"
+    },
+    {
+     "start": "15:00",
+     "end": "16:00",
+     "title": "About Folk"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "Pinoy Life"
+    },
+    {
+     "start": "18:00",
+     "end": "18:15",
+     "title": "Weekend Roundup"
+    },
+    {
+     "start": "18:15",
+     "end": "18:45",
+     "title": "Hong Kong Heritage"
+    },
+    {
+     "start": "18:45",
+     "end": "19:00",
+     "title": "Book Club"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Saptahik Sandesh साप्ताहिक सन्देश"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "Hong Kong Ki Shaam ہانگ کانگ کی شام"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "Network South Asia"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "Sunday Late"
+    },
+    {
+     "start": "23:00",
+     "end": "23:10",
+     "title": "Weekend Roundup"
+    },
+    {
+     "start": "23:10",
+     "end": "01:00",
+     "title": "Sunday Late"
+    }
+   ]
+  },
+  "st0174": {
+   "mon": [
+    {
+     "start": "00:00",
+     "end": "06:00",
+     "title": "Night Music 长夜细听"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Aubade"
+    },
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "title": "First Notes 由聆开始"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "Non-stop Classics 美乐无休"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "Delight in a Bite 一时之选"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "Jazzing Up (Repeat) 爵士灵感（重播）"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "Moment Musical 音乐瞬间"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "18:00",
+     "end": "18:18",
+     "title": "Arts News 艺坛快讯"
+    },
+    {
+     "start": "18:18",
+     "end": "19:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Simply Classical 就是古典"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "Concert on 4 四台音乐会"
+    },
+    {
+     "start": "22:00",
+     "end": "23:57",
+     "title": "Nocturne 夜心曲"
+    },
+    {
+     "start": "23:57",
+     "end": "00:00",
+     "title": "Reflections 晚祷"
+    }
+   ],
+   "tue": [
+    {
+     "start": "00:00",
+     "end": "06:00",
+     "title": "Night Music 长夜细听"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Aubade"
+    },
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "title": "First Notes 由聆开始"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "Non-stop Classics 美乐无休"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "Delight in a Bite 一时之选"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "Music from China (Repeat) 乐在神州（重播）"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "Concert on 4 (Repeat) 四台音乐会（重播）"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "18:00",
+     "end": "18:18",
+     "title": "Arts News 艺坛快讯"
+    },
+    {
+     "start": "18:18",
+     "end": "19:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Simply Classical 就是古典"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "Concert on 4 四台音乐会"
+    },
+    {
+     "start": "22:00",
+     "end": "23:57",
+     "title": "Nocturne 夜心曲"
+    },
+    {
+     "start": "23:57",
+     "end": "00:00",
+     "title": "Reflections 晚祷"
+    }
+   ],
+   "wed": [
+    {
+     "start": "00:00",
+     "end": "06:00",
+     "title": "Night Music 长夜细听"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Aubade"
+    },
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "title": "First Notes 由聆开始"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "Non-stop Classics 美乐无休"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "Delight in a Bite 一时之选"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "An Opera in an Hour (Repeat) 一小时歌剧（重播）"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "Concert on 4 (Repeat) 四台音乐会（重播）"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "18:00",
+     "end": "18:18",
+     "title": "Arts News 艺坛快讯"
+    },
+    {
+     "start": "18:18",
+     "end": "19:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Simply Classical 就是古典"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "Concert on 4 四台音乐会"
+    },
+    {
+     "start": "22:00",
+     "end": "23:57",
+     "title": "Nocturne 夜心曲"
+    },
+    {
+     "start": "23:57",
+     "end": "00:00",
+     "title": "Reflections 晚祷"
+    }
+   ],
+   "thu": [
+    {
+     "start": "00:00",
+     "end": "06:00",
+     "title": "Night Music 长夜细听"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Aubade"
+    },
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "title": "First Notes 由聆开始"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "Non-stop Classics 美乐无休"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "Delight in a Bite 一时之选"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "Schools Music Festival (Repeat) 学校音乐节（重播）"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "Concert on 4 (Repeat) 四台音乐会（重播）"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "18:00",
+     "end": "18:18",
+     "title": "Arts News 艺坛快讯"
+    },
+    {
+     "start": "18:18",
+     "end": "19:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Simply Classical 就是古典"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "Concert on 4 四台音乐会"
+    },
+    {
+     "start": "22:00",
+     "end": "23:57",
+     "title": "Nocturne 夜心曲"
+    },
+    {
+     "start": "23:57",
+     "end": "00:00",
+     "title": "Reflections 晚祷"
+    }
+   ],
+   "fri": [
+    {
+     "start": "00:00",
+     "end": "06:00",
+     "title": "Night Music 长夜细听"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Aubade"
+    },
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "title": "First Notes 由聆开始"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "Non-stop Classics 美乐无休"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "Delight in a Bite 一时之选"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "title": "大指挥家的生活日志（重播） Beyond the Baton (Repeat)"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "Concert on 4 (Repeat) 四台音乐会（重播）"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "18:00",
+     "end": "18:18",
+     "title": "Arts News 艺坛快讯"
+    },
+    {
+     "start": "18:18",
+     "end": "19:00",
+     "title": "Sunset Music Diary 日乐志"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "Simply Classical 就是古典"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "In Memory of Yip Wai-hong, My life in Music (2016) 怀念叶惠康 - 耕耘集：我的香港音乐故事 (2016)"
+    },
+    {
+     "start": "22:00",
+     "end": "23:57",
+     "title": "Nocturne 夜心曲"
+    },
+    {
+     "start": "23:57",
+     "end": "00:00",
+     "title": "Reflections 晚祷"
+    }
+   ],
+   "sat": [
+    {
+     "start": "00:00",
+     "end": "06:00",
+     "title": "Night Music 长夜细听"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Aubade"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "Saturday Morning on 4 周六早晨"
+    },
+    {
+     "start": "09:00",
+     "end": "11:00",
+     "title": "The Classical and The Curious 尔想不到"
+    },
+    {
+     "start": "11:00",
+     "end": "13:00",
+     "title": "Play by Ear 周末随想"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "Delight in a Bite 一时之选"
+    },
+    {
+     "start": "14:00",
+     "end": "16:00",
+     "title": "R4 Music Academy 我哋都系音乐系！"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "Music Insider 新声事务所"
+    },
+    {
+     "start": "18:00",
+     "end": "20:00",
+     "title": "Cantilena 自投罗网"
+    },
+    {
+     "start": "20:00",
+     "end": "22:00",
+     "title": "Concert on 4 四台音乐会"
+    },
+    {
+     "start": "22:00",
+     "end": "00:00",
+     "title": "Musical Years 那些年的乐事"
+    }
+   ],
+   "sun": []
+  },
+  "st0175": {
+   "mon": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "05:00",
+     "title": "越夜粤精彩"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地（与第一台联播）"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "自在早晨"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "香江暖流"
+    },
+    {
+     "start": "13:00",
+     "end": "16:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "有你同行"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "优闲安多Fun"
+    },
+    {
+     "start": "20:00",
+     "end": "20:30",
+     "title": "长进课程:蓦然回首"
+    },
+    {
+     "start": "20:30",
+     "end": "21:00",
+     "title": "长进课程: 故宫声音再导航"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "教学有心人"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:35",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ],
+   "tue": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "05:00",
+     "title": "越夜粤精彩"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地（与第一台联播）"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "自在早晨"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "香江暖流"
+    },
+    {
+     "start": "13:00",
+     "end": "16:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "有你同行"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "优闲安多Fun"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "善报"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "捉心理 (重播)"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:35",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ],
+   "wed": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "05:00",
+     "title": "越夜粤精彩"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地（与第一台联播）"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "自在早晨"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "香江暖流"
+    },
+    {
+     "start": "13:00",
+     "end": "16:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "有你同行"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "优闲安多Fun"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "缤纷旅程"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "香港留声机 (重播)"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:35",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ],
+   "thu": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "05:00",
+     "title": "越夜粤精彩"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地（与第一台联播）"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "自在早晨"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "香江暖流"
+    },
+    {
+     "start": "13:00",
+     "end": "16:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "有你同行"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "优闲安多Fun"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "绿色 Fighting"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "遇见文学 (重播)"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:35",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ],
+   "fri": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "05:00",
+     "title": "越夜粤精彩"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地（与第一台联播）"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "自在早晨"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "香江暖流"
+    },
+    {
+     "start": "13:00",
+     "end": "16:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "有你同行"
+    },
+    {
+     "start": "18:00",
+     "end": "18:35",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:35",
+     "end": "20:00",
+     "title": "优闲安多Fun"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "乐龄是敢的"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "绿．游踪"
+    },
+    {
+     "start": "22:00",
+     "end": "22:35",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:35",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ],
+   "sat": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "05:00",
+     "title": "越夜粤精彩"
+    },
+    {
+     "start": "05:00",
+     "end": "06:30",
+     "title": "清晨爽利"
+    },
+    {
+     "start": "06:30",
+     "end": "08:00",
+     "title": "晨早新闻天地（与第一台联播）"
+    },
+    {
+     "start": "08:00",
+     "end": "10:00",
+     "title": "好歌安哥"
+    },
+    {
+     "start": "10:00",
+     "end": "13:00",
+     "title": "耆力量"
+    },
+    {
+     "start": "13:00",
+     "end": "16:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "title": "湾区粤韵"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "听多啲识多啲"
+    },
+    {
+     "start": "18:00",
+     "end": "18:20",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:20",
+     "end": "18:33",
+     "title": "五台小编推介"
+    },
+    {
+     "start": "18:33",
+     "end": "19:00",
+     "title": "丰富的人生"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "title": "动人的中国旋律"
+    },
+    {
+     "start": "20:00",
+     "end": "20:30",
+     "title": "古文观止 (重播)"
+    },
+    {
+     "start": "20:30",
+     "end": "21:00",
+     "title": "中国寓言 (重播)"
+    },
+    {
+     "start": "21:00",
+     "end": "21:30",
+     "title": "中华五千年 (重播)"
+    },
+    {
+     "start": "21:30",
+     "end": "22:00",
+     "title": "文采飞扬 (重播)"
+    },
+    {
+     "start": "22:00",
+     "end": "22:20",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:20",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ],
+   "sun": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "周末午夜场(与第一台联播)"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Beautiful Sunday（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "有缘相会"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "空中结缘"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "老细一齐嚟"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "生活存关爱"
+    },
+    {
+     "start": "13:00",
+     "end": "17:00",
+     "title": "戏曲天地"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "美丽人生"
+    },
+    {
+     "start": "18:00",
+     "end": "18:20",
+     "title": "傍晚新闻天地（与第一台联播）"
+    },
+    {
+     "start": "18:20",
+     "end": "18:33",
+     "title": "五台小编推介 (重播)"
+    },
+    {
+     "start": "18:33",
+     "end": "19:00",
+     "title": "天降甘霖"
+    },
+    {
+     "start": "19:00",
+     "end": "21:00",
+     "title": "基哥K歌"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "星月争辉_艾力"
+    },
+    {
+     "start": "22:00",
+     "end": "22:20",
+     "title": "晚间新闻天地（与第一台联播）"
+    },
+    {
+     "start": "22:20",
+     "end": "02:00",
+     "title": "戏曲之夜"
+    }
+   ]
+  },
+  "st0176": {
+   "mon": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "晨光第一线（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "好Young音乐"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "621新闻财经"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "新紫荆广场"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "title": "U秀帮"
+    },
+    {
+     "start": "13:30",
+     "end": "14:00",
+     "title": "午间新闻/财经"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "title": "寰听世界"
+    },
+    {
+     "start": "15:30",
+     "end": "16:00",
+     "title": "两文三语说故事"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "e线金融网"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "title": "音乐抱抱"
+    },
+    {
+     "start": "19:30",
+     "end": "20:00",
+     "title": "晚间新闻/财经"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "CIBS节目：青葱大步走世界"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS节目：中年有出路"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "夜妈妈心里话"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ],
+   "tue": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "晨光第一线（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "好Young音乐"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "621新闻财经"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "新紫荆广场"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "title": "U秀帮"
+    },
+    {
+     "start": "13:30",
+     "end": "14:00",
+     "title": "午间新闻/财经"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "title": "寰听世界"
+    },
+    {
+     "start": "15:30",
+     "end": "16:00",
+     "title": "两文三语说故事"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "e线金融网"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "title": "音乐抱抱"
+    },
+    {
+     "start": "19:30",
+     "end": "20:00",
+     "title": "晚间新闻/财经"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "CIBS节目：斜杠人生013"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS节目：动保拯救队"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "夜妈妈心里话"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ],
+   "wed": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "晨光第一线（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "好Young音乐"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "621新闻财经"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "新紫荆广场"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "title": "U秀帮"
+    },
+    {
+     "start": "13:30",
+     "end": "14:00",
+     "title": "午间新闻/财经"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "title": "寰听世界"
+    },
+    {
+     "start": "15:30",
+     "end": "16:00",
+     "title": "两文三语说故事"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "e线金融网"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "title": "音乐抱抱"
+    },
+    {
+     "start": "19:30",
+     "end": "20:00",
+     "title": "晚间新闻/财经"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "CIBS节目：艺・文青"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS节目：墙画短说"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "夜妈妈心里话"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ],
+   "thu": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "晨光第一线（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "好Young音乐"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "621新闻财经"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "新紫荆广场"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "title": "U秀帮"
+    },
+    {
+     "start": "13:30",
+     "end": "14:00",
+     "title": "午间新闻/财经"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "title": "寰听世界"
+    },
+    {
+     "start": "15:30",
+     "end": "16:00",
+     "title": "两文三语说故事"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "e线金融网"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "title": "音乐抱抱"
+    },
+    {
+     "start": "19:30",
+     "end": "20:00",
+     "title": "晚间新闻/财经"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "CIBS节目：「少少」大世界"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS节目：青年运动大本营"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "夜妈妈心里话"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ],
+   "fri": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "晨光第一线（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "09:00",
+     "title": "好Young音乐"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "title": "621新闻财经"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "新紫荆广场"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "title": "U秀帮"
+    },
+    {
+     "start": "13:30",
+     "end": "14:00",
+     "title": "午间新闻/财经"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "title": "寰听世界"
+    },
+    {
+     "start": "15:30",
+     "end": "16:00",
+     "title": "两文三语说故事"
+    },
+    {
+     "start": "16:00",
+     "end": "18:00",
+     "title": "e线金融网"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "title": "音乐抱抱"
+    },
+    {
+     "start": "19:30",
+     "end": "20:00",
+     "title": "晚间新闻/财经"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "CIBS节目：日本神话通识"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS节目：关於我和泰拳的那件事"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "CIBS节目：武林高手"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ],
+   "sat": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "知识会社（与第二台联播）"
+    },
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "title": "跳跃音符"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "新人类、大世界"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "上·港上线啦"
+    },
+    {
+     "start": "13:00",
+     "end": "15:00",
+     "title": "绝代芳华"
+    },
+    {
+     "start": "15:00",
+     "end": "17:00",
+     "title": "乐宇宙"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "普出校园精彩"
+    },
+    {
+     "start": "18:00",
+     "end": "20:00",
+     "title": "音乐之光"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "title": "CIBS节目：少数族裔香港家常便饭"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS节目：梦工场・社区青年说"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "CIBS节目：音乐斜杠族"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ],
+   "sun": [
+    {
+     "start": "00:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    },
+    {
+     "start": "02:00",
+     "end": "06:00",
+     "title": "轻谈浅唱不夜天（与第二台联播）"
+    },
+    {
+     "start": "06:00",
+     "end": "07:00",
+     "title": "Beautiful Sunday(与一、二、五台联播)"
+    },
+    {
+     "start": "07:00",
+     "end": "09:30",
+     "title": "跳跃音符"
+    },
+    {
+     "start": "09:30",
+     "end": "10:00",
+     "title": "Halo Jakarta! Hello Hong Kong!"
+    },
+    {
+     "start": "10:00",
+     "end": "12:00",
+     "title": "621 金曲专门店"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "title": "魅力中国"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "title": "飞越大中华"
+    },
+    {
+     "start": "14:00",
+     "end": "16:00",
+     "title": "影视留声"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "title": "孟想运动周刊"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "title": "U秀帮周日版"
+    },
+    {
+     "start": "18:00",
+     "end": "20:00",
+     "title": "Sunday随想曲"
+    },
+    {
+     "start": "20:00",
+     "end": "20:30",
+     "title": "CIBS节目：差异不差・障碍无碍"
+    },
+    {
+     "start": "20:30",
+     "end": "21:00",
+     "title": "CIBS Programme：SPOTLIGHT 5"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "title": "CIBS Programme：Unveiling the Stories of Skilled Workers: Katha Kamdarko"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "title": "CIBS Programme：Her story, in Her Home – Hong Kong"
+    },
+    {
+     "start": "23:00",
+     "end": "02:00",
+     "title": "月夜乐逍遥"
+    }
+   ]
+  }
+ }
+}
