@@ -2428,7 +2428,8 @@
       ],
       "logo": "",
       "desc": "手动添加",
-      "badge": "国际",
+      "badge": "法国",
+      "sub": "国际",
       "py": "fggjgbdt",
       "tags": [
         "海外"
@@ -22332,7 +22333,8 @@
       "badge": "职业教育",
       "sub": "CETV-4",
       "py": "zyjypdcetv4",
-      "tags": []
+      "tags": [],
+      "epgpw": "545956"
     },
     {
       "id": "st0583",
@@ -22954,7 +22956,8 @@
       "badge": "海南",
       "py": "hnws",
       "sub": "卫视",
-      "tags": []
+      "tags": [],
+      "epgpw": "545969"
     },
     {
       "id": "st1409",
