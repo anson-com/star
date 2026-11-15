@@ -21,5 +21,10 @@
   "badUrl": "流格式异常",
   "noUrl": "无可用流地址",
   "noResponseShort": "暂无响应",
-  "pickFirst": "请先选择一个电台"
+  "pickFirst": "请先选择一个电台",
+
+  "replay": {
+    "blocked": "浏览器拦了自动播放,再点一次「回听」",
+    "noResponse": "回听流暂时没有响应"
+  }
 }
