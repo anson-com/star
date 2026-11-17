@@ -1,6 +1,6 @@
 {
   "schema": "starfm/v1",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18T03:32:45+08:00",
   "total": 610,
   "stations": [
     {
@@ -11520,9 +11520,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/84/stream_10946.mp3?type=1&key=f354206e51a67190ced9bf668c6e1bdc&time=6ae9ff63"
-      ],
-      "yt": "946",
-      "ytp": "340000"
+      ]
     },
     {
       "id": "st0743",
@@ -11862,9 +11860,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/86/stream_10938.mp3?type=1&key=08213678d0c821a57127507e9813974c&time=6ae9ff63"
-      ],
-      "yt": "938",
-      "ytp": "340000"
+      ]
     },
     {
       "id": "st0764",
@@ -11951,9 +11947,7 @@
       ],
       "tags": [
         "华语金曲"
-      ],
-      "yt": "1254",
-      "ytp": "110000"
+      ]
     },
     {
       "id": "st0770",
@@ -12037,9 +12031,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/70/stream_12558.mp3?type=1&key=b105c00f34d510a2177f16209155459e&time=6ae9ff66"
-      ],
-      "yt": "2558",
-      "ytp": "500000"
+      ]
     },
     {
       "id": "st0776",
@@ -12528,9 +12520,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/84/stream_11078.mp3?type=1&key=2f79a7cf324a2f29f1cb0e02316998e3&time=6ae9ff70"
-      ],
-      "yt": "1078",
-      "ytp": "450000"
+      ]
     },
     {
       "id": "st0823",
@@ -12620,9 +12610,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/77/stream_11372.mp3?type=1&key=0f274c23cab32f0ade6e84fcb70809c5&time=6ae9ff70"
-      ],
-      "yt": "1372",
-      "ytp": "450000"
+      ]
     },
     {
       "id": "st0829",
@@ -12634,9 +12622,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/77/stream_11373.mp3?type=1&key=61610ad760a106d6b1f4183fe800f171&time=6ae9ff70"
-      ],
-      "yt": "1373",
-      "ytp": "450000"
+      ]
     },
     {
       "id": "st0830",
@@ -13162,9 +13148,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/80/stream_13304.mp3?type=1&key=76a76a55c910f9aefea35319b0bc1658&time=6ae9ff9b"
-      ],
-      "yt": "3304",
-      "ytp": "130000"
+      ]
     },
     {
       "id": "st0864",
@@ -14691,9 +14675,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/87/stream_11030.mp3?type=1&key=2e5e131826fb9ddef05718f6b8da0ae8&time=6ae9ffa5"
-      ],
-      "yt": "1030",
-      "ytp": "420000"
+      ]
     },
     {
       "id": "st0960",
@@ -15562,9 +15544,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/86/stream_11322.mp3?type=1&key=93e9f5c49e877475ab3ee351a4f008fe&time=6ae9ffb9"
-      ],
-      "yt": "1322",
-      "ytp": "320000"
+      ]
     },
     {
       "id": "st1015",
@@ -15581,9 +15561,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/78/stream_11323.mp3?type=1&key=edccc9c8bab16a118a816f0616297b03&time=6ae9ffb9"
-      ],
-      "yt": "1323",
-      "ytp": "320000"
+      ]
     },
     {
       "id": "st1016",
@@ -16782,9 +16760,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/80/stream_10811.mp3?type=1&key=1c2cddf9dae4971dfa0cca620e386e14&time=6ae9ffbc"
-      ],
-      "yt": "811",
-      "ytp": "210000"
+      ]
     },
     {
       "id": "st1089",
@@ -17401,9 +17377,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/81/stream_11925.mp3?type=1&key=0617684a10b767d106526c1e701e2007&time=6ae9ffc1"
-      ],
-      "yt": "1925",
-      "ytp": "640000"
+      ]
     },
     {
       "id": "st1129",
@@ -17514,9 +17488,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/69/stream_12374.mp3?type=1&key=c82e0619439698113e060bd5fabfdc44&time=6ae9ffc6"
-      ],
-      "yt": "2374",
-      "ytp": "370000"
+      ]
     },
     {
       "id": "st1136",
@@ -17647,9 +17619,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/82/stream_13322.mp3?type=1&key=2a72c0d7686750bbdde9131d3c022104&time=6ae9ffc6"
-      ],
-      "yt": "3322",
-      "ytp": "370000"
+      ]
     },
     {
       "id": "st1144",
@@ -17723,9 +17693,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/73/stream_11573.mp3?type=1&key=2eb1f7eb7a84cc284eb5bf211024c61d&time=6ae9ffc6"
-      ],
-      "yt": "1573",
-      "ytp": "370000"
+      ]
     },
     {
       "id": "st1149",
@@ -17800,9 +17768,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/69/stream_12342.mp3?type=1&key=d175d633d386bc9d8be6a72b5d0fee54&time=6ae9ffc6"
-      ],
-      "yt": "977",
-      "ytp": "370000"
+      ]
     },
     {
       "id": "st1154",
@@ -18142,9 +18108,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/69/stream_12295.mp3?type=1&key=d2b925733cb95bec5113add512db0fcb&time=6ae9ffc6"
-      ],
-      "yt": "1981",
-      "ytp": "370000"
+      ]
     },
     {
       "id": "st1176",
@@ -18819,9 +18783,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/85/stream_12139.mp3?type=1&key=699952ad116226b849028138811f775b&time=6ae9ffc9"
-      ],
-      "yt": "2139",
-      "ytp": "140000"
+      ]
     },
     {
       "id": "st1217",
@@ -19516,9 +19478,7 @@
         "http://ytcastmp3.radio.cn/69/stream_11111.mp3?type=1&key=f4a5cbbfe8fd223dc7e309db3f3c6631&time=6ae9ffd7",
         "https://lhttp-hw.qtfm.cn/live/5021559/64k.mp3"
       ],
-      "qtfm": "5021559",
-      "yt": "1111",
-      "ytp": "510000"
+      "qtfm": "5021559"
     },
     {
       "id": "st1262",
@@ -20230,9 +20190,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/57/stream_13324.mp3?type=1&key=1733165c90322056fbacff7234b83b7e&time=6ae9ffdd"
-      ],
-      "yt": "3324",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1309",
@@ -20247,9 +20205,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/55/stream_13328.mp3?type=1&key=1ba24b0eed09ffe473640febd29fc114&time=6ae9ffdd"
-      ],
-      "yt": "3328",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1310",
@@ -20264,9 +20220,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/57/stream_13325.mp3?type=1&key=d0ca90a1ec8a5b95be9142988bb94a39&time=6ae9ffdd"
-      ],
-      "yt": "3325",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1311",
@@ -20281,9 +20235,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/57/stream_13327.mp3?type=1&key=7592dcccd8d89d577f2cbcae53fb51b5&time=6ae9ffdd"
-      ],
-      "yt": "3327",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1312",
@@ -20298,9 +20250,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/55/stream_13330.mp3?type=1&key=964bb9b692ab41264ab9ec7f5b949467&time=6ae9ffdd"
-      ],
-      "yt": "3330",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1313",
@@ -20315,9 +20265,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/57/stream_13326.mp3?type=1&key=c447659be83118f8b158b32ead0665c0&time=6ae9ffdd"
-      ],
-      "yt": "3326",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1314",
@@ -20332,9 +20280,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/57/stream_13331.mp3?type=1&key=52f8c705d52d08cbb661cd4b57879b21&time=6ae9ffdd"
-      ],
-      "yt": "3331",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1315",
@@ -20349,9 +20295,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/55/stream_13329.mp3?type=1&key=78908f17e441496336152091c7b2be28&time=6ae9ffdd"
-      ],
-      "yt": "3329",
-      "ytp": "650000"
+      ]
     },
     {
       "id": "st1316",
@@ -20605,9 +20549,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/77/stream_11486.mp3?type=1&key=0e05615bb8397c62e0e10caa8c6e1915&time=6ae9ffde"
-      ],
-      "yt": "1486",
-      "ytp": "530000"
+      ]
     },
     {
       "id": "st1332",
@@ -20731,9 +20673,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/89/stream_12308.mp3?type=1&key=54b2e05ba84c0764d06c09efa9fc9433&time=6ae9ffde"
-      ],
-      "yt": "2308",
-      "ytp": "530000"
+      ]
     },
     {
       "id": "st1340",
@@ -21233,9 +21173,7 @@
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/59/stream_11715.mp3?type=1&key=635cdf6081d9bf8c81cfea8bf79bba42&time=6ae9ffe1"
-      ],
-      "yt": "1715",
-      "ytp": "330000"
+      ]
     },
     {
       "id": "st1371",
