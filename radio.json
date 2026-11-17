@@ -1,6 +1,6 @@
 {
   "schema": "starfm/v1",
-  "updated": "2026-11-17",
+  "updated": "2026-11-16",
   "total": 610,
   "stations": [
     {
@@ -4638,7 +4638,7 @@
       "id": "st0271",
       "name": "保定经典964",
       "region": "河北",
-      "category": "音乐",
+      "category": "交通",
       "city": "保定",
       "stream": [
         "https://ls.qingting.fm/live/2227017.m3u8"
@@ -4648,8 +4648,7 @@
       "badge": "保定",
       "py": "bdjdqcyygb964",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "sub": "经典",
       "_dead_seed": [
@@ -4683,10 +4682,7 @@
       "desc": "北京房山经典音乐 FM96.9",
       "badge": "音乐",
       "py": "bjfsyygb",
-      "sub": "房山",
-      "tags": [
-        "华语金曲"
-      ]
+      "sub": "房山"
     },
     {
       "id": "st0275",
@@ -6591,8 +6587,7 @@
       "py": "yzjdtasiafm",
       "sub": "ASIAFM",
       "tags": [
-        "网络",
-        "华语金曲"
+        "网络"
       ],
       "qtfm": "5021912"
     },
@@ -7694,7 +7689,7 @@
       "id": "st0472",
       "name": "湖北经典广播",
       "region": "湖北",
-      "category": "音乐",
+      "category": "综合",
       "city": "武汉",
       "stream": [
         "https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8"
@@ -7703,10 +7698,7 @@
       "desc": "武汉 · 湖北经典广播",
       "badge": "经典",
       "py": "hubeijingdianguangbo",
-      "br": 229000,
-      "tags": [
-        "华语金曲"
-      ]
+      "br": 229000
     },
     {
       "id": "st0473",
@@ -8628,6 +8620,8 @@
       "py": "",
       "tags": [
         "网络",
+        "华语",
+        "流行 pop",
         "华语金曲"
       ],
       "sub": "500",
@@ -8661,8 +8655,7 @@
       "py": "",
       "tags": [
         "网络",
-        "怀旧",
-        "华语金曲"
+        "怀旧"
       ],
       "sub": "音乐",
       "city": "网络"
@@ -10188,8 +10181,7 @@
       "sub": "网络",
       "br": 128000,
       "tags": [
-        "怀旧",
-        "华语金曲"
+        "怀旧"
       ]
     },
     {
@@ -10372,10 +10364,11 @@
       "name": "80后音乐台",
       "region": "网络",
       "city": "网络",
-      "category": "音乐",
+      "category": "华语",
       "tags": [
         "音乐",
-        "华语金曲"
+        "华语",
+        "流行 pop"
       ],
       "stream": [
         "http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8",
@@ -10858,7 +10851,8 @@
       ],
       "qtfm": "4938",
       "tags": [
-        "华语金曲"
+        "华语",
+        "流行 pop"
       ]
     },
     {
@@ -11960,14 +11954,11 @@
       "name": "北京969经典调频",
       "region": "北京",
       "city": "北京969经典调频",
-      "category": "音乐",
+      "category": "综合",
       "stream": [],
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/76/stream_11254.mp3?type=1&key=d98075a86fe94c96493a9b676c20b69e&time=6ae9ff64"
-      ],
-      "tags": [
-        "华语金曲"
       ]
     },
     {
@@ -12521,7 +12512,7 @@
       "name": "贵港综合广播·金曲1019",
       "region": "广西",
       "city": "广西",
-      "category": "音乐",
+      "category": "综合",
       "stream": [
         "https://lhttp.qingting.fm/live/20697/64k.mp3"
       ],
@@ -12530,10 +12521,7 @@
       ],
       "qtfm": "20697",
       "badge": "金曲",
-      "sub": "1019",
-      "tags": [
-        "华语金曲"
-      ]
+      "sub": "1019"
     },
     {
       "id": "st0822",
@@ -12977,15 +12965,12 @@
       "name": "年代965",
       "region": "河北",
       "city": "年代965",
-      "category": "音乐",
+      "category": "综合",
       "stream": [
         "https://lhttp.qtfm.cn/live/20500148/64k.mp3"
       ],
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/74/stream_13275.mp3?type=1&key=a1e2412aaac846b4c7ba373b07112d6d&time=6ae9ff9b"
-      ],
-      "tags": [
-        "华语金曲"
       ]
     },
     {
@@ -13042,17 +13027,14 @@
       "name": "经典913",
       "region": "河北",
       "city": "经典913",
-      "category": "音乐",
+      "category": "综合",
       "stream": [
         "https://lhttp-hw.qtfm.cn/live/20500222/64k.mp3"
       ],
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/84/stream_13292.mp3?type=1&key=b31c09043ca7d8a461732a1ea9ee9b48&time=6ae9ff9b"
       ],
-      "qtfm": "20500222",
-      "tags": [
-        "华语金曲"
-      ]
+      "qtfm": "20500222"
     },
     {
       "id": "st0856",
@@ -13602,8 +13584,7 @@
       "city": "郑州",
       "category": "音乐",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "stream": [
         "https://lhttp-hw.qtfm.cn/live/1223/64k.mp3"
@@ -14577,8 +14558,7 @@
       "city": "湖北",
       "category": "音乐",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "stream": [
         "https://lhttp.qtfm.cn/live/1296/64k.mp3"
@@ -15719,17 +15699,14 @@
       "name": "淮安经典992",
       "region": "江苏",
       "city": "淮安经典992",
-      "category": "音乐",
+      "category": "综合",
       "stream": [
         "https://lhttp-hw.qtfm.cn/live/15318398/64k.mp3"
       ],
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/67/stream_20853.mp3?type=1&key=36e3656688a0e15662b8b59aec961e8f&time=6ae9ffb9"
       ],
-      "qtfm": "15318398",
-      "tags": [
-        "华语金曲"
-      ]
+      "qtfm": "15318398"
     },
     {
       "id": "st1024",
@@ -16064,8 +16041,7 @@
       "city": "徐州铜山经典942",
       "category": "音乐",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "stream": [
         "https://lhttp.qingting.fm/live/15318160/64k.mp3"
@@ -16118,14 +16094,11 @@
       "name": "盐城经典调频",
       "region": "江苏",
       "city": "盐城经典调频",
-      "category": "音乐",
+      "category": "综合",
       "stream": [],
       "broken": true,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/80/stream_10886.mp3?type=1&key=f4214c94e0e1ca42cfe84d0dd3bcde2d&time=6ae9ffb9"
-      ],
-      "tags": [
-        "华语金曲"
       ]
     },
     {
@@ -16646,8 +16619,7 @@
       "city": "辽宁",
       "category": "音乐",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "stream": [
         "https://lhttp-hw.qtfm.cn/live/20021/64k.mp3"
@@ -17512,8 +17484,7 @@
       "city": "山东",
       "category": "音乐",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "stream": [
         "https://lhttp.qingting.fm/live/20240/64k.mp3",
@@ -19055,15 +19026,12 @@
       "name": "经典947",
       "region": "上海",
       "city": "经典947",
-      "category": "音乐",
+      "category": "综合",
       "stream": [
         "https://lhttp-hw.qtfm.cn/live/5022308/64k.mp3"
       ],
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/64/stream_11316.mp3?type=1&key=82586084fa1d8f885cd52a55b68d2dcd&time=6ae9ffd4"
-      ],
-      "tags": [
-        "古典"
       ]
     },
     {
@@ -19259,8 +19227,7 @@
       "city": "四川",
       "category": "音乐",
       "tags": [
-        "音乐",
-        "华语金曲"
+        "音乐"
       ],
       "stream": [
         "http://lhttp.qingting.fm/live/20500066/64k.mp3?"
@@ -20734,16 +20701,13 @@
       "name": "慈溪经典车电台",
       "region": "浙江",
       "city": "慈溪经典车电台",
-      "category": "音乐",
+      "category": "综合",
       "stream": "https://lhttp.qingting.fm/live/5021401/64k.mp3",
       "broken": null,
       "_dead_seed": [
         "http://ytcastmp3.radio.cn/55/stream_11444.mp3?type=1&key=2ce34b1f07179e96e3f98a6282162e73&time=6ae9ffe1"
       ],
-      "qtfm": "5021401",
-      "tags": [
-        "华语金曲"
-      ]
+      "qtfm": "5021401"
     },
     {
       "id": "st1349",
@@ -22771,7 +22735,7 @@
       "id": "st1438",
       "name": "天籁之音-经典正流行",
       "region": "网络",
-      "category": "音乐",
+      "category": "华语",
       "city": "网络",
       "stream": [
         "http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8"
@@ -22784,7 +22748,8 @@
       "tags": [
         "音乐",
         "网络",
-        "华语金曲"
+        "华语",
+        "流行 pop"
       ]
     },
     {
@@ -22904,10 +22869,7 @@
       "desc": "经典916 新乡旅游台",
       "badge": "经典",
       "py": "jd916",
-      "sub": "916",
-      "tags": [
-        "华语金曲"
-      ]
+      "sub": "916"
     },
     {
       "id": "st1446",
@@ -23181,8 +23143,7 @@
       "badge": "佳音",
       "py": "jyjdylw",
       "tags": [
-        "怀旧",
-        "华语金曲"
+        "怀旧"
       ],
       "sub": "经典"
     },
@@ -25204,8 +25165,7 @@
       "tags": [
         "海外",
         "怀旧",
-        "网络",
-        "华语金曲"
+        "网络"
       ]
     },
     {
@@ -25226,7 +25186,7 @@
         "海外",
         "粤语",
         "网络",
-        "粤语金曲"
+        "华语金曲"
       ]
     },
     {
