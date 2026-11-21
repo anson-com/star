@@ -1,6 +1,6 @@
 {
  "schema": "starfm/v1",
- "updated": "2026-11-18T11:52:24+08:00",
+ "updated": "2026-11-22T06:24:16+08:00",
  "total": 611,
  "stations": [
   {
@@ -21615,6 +21615,21 @@
    "epgpw": "410355"
   },
   {
+   "id": "st2090",
+   "name": "CIT 中天新闻",
+   "region": "台湾",
+   "category": "电视",
+   "city": "台北",
+   "stream": [
+    "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8"
+   ],
+   "logo": "logos/st2090.webp",
+   "desc": "中天新闻台（CTi News），台湾 24 小时新闻频道，CloudFront 直供",
+   "badge": "中天",
+   "py": "ctizhongtianxinwen",
+   "sub": "新闻"
+  },
+  {
    "id": "st0415",
    "name": "CCTV-1 综合",
    "region": "中国",
@@ -27925,7 +27940,8 @@
     "环境音",
     "氛围",
     "器乐",
-    "疗愈"
+    "疗愈",
+    "冥想"
    ],
    "alias": "冥想"
   },
@@ -28741,7 +28757,8 @@
     "环境音",
     "氛围",
     "新世纪",
-    "疗愈"
+    "疗愈",
+    "冥想"
    ],
    "alias": "禅"
   },
@@ -35172,21 +35189,6 @@
    "region": "国际",
    "category": "音乐",
    "logo": ""
-  },
-  {
-   "id": "st2090",
-   "name": "CIT 中天新闻",
-   "region": "台湾",
-   "category": "电视",
-   "city": "台北",
-   "stream": [
-    "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8"
-   ],
-   "logo": "logos/st2090.webp",
-   "desc": "中天新闻台（CTi News），台湾 24 小时新闻频道，CloudFront 直供",
-   "badge": "中天",
-   "py": "ctizhongtianxinwen",
-   "sub": "新闻"
   }
  ],
  "stats": {
